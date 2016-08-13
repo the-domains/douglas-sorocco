@@ -1,14 +1,14 @@
-layout_spectrum: 0.6250804273877293
-typography_spectrum: 0.2060639839619398
+layout_spectrum: 0.3116086225491017
+typography_spectrum: 0.30668386025354266
 color:
-  brandStrength: 0.33799170469865203
-  lightness: 0.875355169409886
-  saturation: 0.6706533029209822
-  rhythmicContrast: 0.862670955248177
+  brandStrength: 0.3664355098735541
+  lightness: 0.7192001806106418
+  saturation: 0.14166505611501634
+  rhythmicContrast: 0.3745062043890357
   brandColors:
-    - '#36362C'
-    - '#5D917D'
-    - '#A8AD80'
-    - '#E6D4A7'
-    - '#825534'
+    - '#703030'
+    - '#2F343B'
+    - '#7E827A'
+    - '#E3CDA4'
+    - '#C77966'
 name: Douglas Sorocco
